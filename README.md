@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-# I'm Guilherme Borzio 
+# I'm Guilherme Borzio <img src="https://images.emojiterra.com/twitter/512px/1f1e7-1f1f7.png" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="🇧🇷 Bandeira: Brasil Emoji | Bandeira Do Brasil Emoji" data-noaft="1" style="width: 30px; height: 30px; margin: 0px;">
  26 year old changing field of study to better develop myself and contribute with technology in search of a sustainable future.
  
  Following my path to become a Full-Stack developer.
