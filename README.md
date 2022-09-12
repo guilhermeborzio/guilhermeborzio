@@ -1,11 +1,11 @@
 ### Hello there 👋
 
 # I'm Guilherme Borzio <img src="https://images.emojiterra.com/twitter/512px/1f1e7-1f1f7.png" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="🇧🇷 Bandeira: Brasil Emoji | Bandeira Do Brasil Emoji" data-noaft="1" style="width: 30px; height: 30px; margin: 0px;">
- 26 year old changing field of study to better develop myself and contribute with technology in search of a sustainable future.
+ 27 year old student in search of developing myself and contribute with technology in search of a sustainable future.
  
  Following my path to become a Full-Stack developer.
  
- Currently a student in BioPark School for developers.
+ Currently a student in BioPark Tech School.
  
 ## 🌱 I’m currently learning
 <div> <img src="https://e7.pngegg.com/pngimages/465/779/png-clipart-blue-and-white-c-logo-the-c-programming-language-computer-programming-computer-icons-programmer-blue-angle.png" jsaction="load:XAeZkd;" style="width: 40px; height: 40px; margin: 0px;"> <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/40px-HTML5_logo_and_wordmark.svg.png"> <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="40px" height="40px"> <img src="https://logospng.org/download/mysql/mysql-256.png" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="Logo MySQL – Logos PNG" data-noaft="1" style="width: 40px; height: 40px; margin: 0px;"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="File:Unofficial JavaScript logo 2.svg - Wikimedia Commons" data-noaft="1" style="width: 40px; height: 40px; margin: 0px;"> </div>
